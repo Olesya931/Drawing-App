@@ -42,12 +42,12 @@ button{
     cursor: pointer;
 }
 
-.download{
+.download-btn{
     text-decoration: none;
     color: whitesmoke;
 }
 
-.download:hover, .clear-btn:hover{
+.download-btn:hover, .clear-btn:hover{
     color: rgb(206, 206, 206);
 }
 
